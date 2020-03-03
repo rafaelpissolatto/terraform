@@ -5,5 +5,8 @@ Terraform is used to create, manage, and update infrastructure resources such as
 Plese check the [Terraform home page](https://github.com/hashicorp/terraform) to get more information and the usability.
 
 You can find at this repository some examples to use Terraform with provider AWS:
+
 - VPC
+  Complete environment with 3 VPCs: PRD, DEV, TST. For each VPC there is 2 subnet for 2 AZ.
+  
 - EC2
