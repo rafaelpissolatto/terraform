@@ -7,6 +7,6 @@ Plese check the [Terraform home page](https://github.com/hashicorp/terraform) to
 You can find at this repository some examples to use Terraform with provider AWS:
 
 - VPC
-  Complete environment with 3 VPCs: PRD, DEV, TST. For each VPC there is 2 subnet for 2 AZ.
+Complete environment with 3 VPCs: PRD, DEV, TST. For each VPC there is 2 subnet for 2 AZ.
   
 - EC2
